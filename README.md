@@ -81,7 +81,7 @@ It enables better decision-making through interactive data visualization.
 
 - Use data analytics dashboards for better health monitoring
 
-- 
+
 
 ## Dashboard Preview
 
