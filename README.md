@@ -1,2 +1,81 @@
-# Heart-Attack-Risk-Analysis-PowerBI
-Power BI dashboard project analyzing heart attack risk using patient health data. The dashboard provides insights about lifestyle, medical conditions, and risk factors affecting heart attacks.
+# Heart Attack Risk Analysis Dashboard
+
+## Project Overview
+This project analyzes heart attack risk factors using Power BI. 
+The dashboard helps visualize patient health data and identify patterns related to heart attack risk.
+
+## Tools Used
+- Power BI
+- Excel
+- Power Query
+- DAX
+
+## Dataset Information
+The dataset contains medical and lifestyle information about patients including:
+
+- Age
+- Gender
+- Cholesterol
+- Blood Pressure
+- Diabetes
+- Smoking Status
+- Stress Level
+- Physical Activity
+- Sleep Hours
+
+These variables help analyze the risk factors associated with heart attacks.
+
+## Dashboard Features
+
+### KPI Cards
+- Total Patients
+- Heart Attack Count
+- Heart Attack Percentage
+- Abnormal ECG Count
+
+### Interactive Charts
+- Heart Attack by Age Group and Gender
+- Cholesterol Comparison (HDL vs LDL)
+- Diabetes vs Hypertension Impact
+- Stress Level vs Heart Attack
+- Sleep Hours vs Heart Attack
+- Physical Activity Analysis
+- Alcohol Consumption Analysis
+- Dietary Habits Impact
+
+### Filters
+Users can filter the dashboard using:
+
+- Gender
+- Age Group
+- Region
+- Smoking Status
+- Diabetic Status
+
+These filters allow dynamic exploration of the data.
+
+## Key Insights
+- Middle-aged patients show higher heart attack risk.
+- High stress levels increase the number of heart attack cases.
+- Smoking and alcohol consumption significantly impact heart health.
+- Poor diet and low physical activity increase risk levels.
+
+## Conclusion
+This dashboard helps healthcare professionals and analysts understand heart attack risk patterns. 
+It enables better decision-making through interactive data visualization.
+
+## Future Improvements
+- Add predictive machine learning models
+- Integrate real-time healthcare data
+- Improve dashboard design and usability
+
+## Dashboard Preview
+
+### Heart Attack Overview
+![Dashboard 1]()
+
+### Lifestyle Analysis
+![Lifestyle](lifestyle_analysis.png)
+
+### Summary Page
+![Summary](ha_summary.png)
