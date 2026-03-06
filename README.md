@@ -24,6 +24,19 @@ The dataset contains medical and lifestyle information about patients including:
 - Sleep Hours
 
 These variables help analyze the risk factors associated with heart attacks.
+## Add DAX Measures Section
+## Key DAX Measures
+
+- Total Patients = COUNTROWS('Heart')
+
+- Heart Attack Count =
+CALCULATE(COUNTROWS('Heart'), 'Heart'[Heart Attack] = 1)
+
+- Heart Attack % =
+DIVIDE([Heart Attack Count], [Total Patients]) * 100
+
+- Average Cholesterol =
+AVERAGE('Heart'[Cholesterol Level])
 
 ## Dashboard Features
 
@@ -59,6 +72,8 @@ These filters allow dynamic exploration of the data.
 - High stress levels increase the number of heart attack cases.
 - Smoking and alcohol consumption significantly impact heart health.
 - Poor diet and low physical activity increase risk levels.
+- ## Key DAX Measures
+
 
 ## Conclusion
 This dashboard helps healthcare professionals and analysts understand heart attack risk patterns. 
