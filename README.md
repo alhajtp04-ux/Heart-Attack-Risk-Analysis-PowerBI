@@ -72,7 +72,7 @@ It enables better decision-making through interactive data visualization.
 ## Dashboard Preview
 
 ### Heart Attack Overview
-![Dashboard 1]()
+![Dashboard 1](https://github.com/alhajtp04-ux/Heart-Attack-Risk-Analysis-PowerBI/blob/main/HEART%20DASH/Screenshot%202026-03-06%20135339.png)
 
 ### Lifestyle Analysis
 ![Lifestyle](lifestyle_analysis.png)
