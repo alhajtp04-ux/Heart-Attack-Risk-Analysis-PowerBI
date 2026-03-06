@@ -78,4 +78,4 @@ It enables better decision-making through interactive data visualization.
 ![Lifestyle](https://github.com/alhajtp04-ux/Heart-Attack-Risk-Analysis-PowerBI/blob/main/HEART%20DASH/Screenshot%202026-03-06%20135406.png)
 
 ### Summary Page
-![Summary](ha_summary.png)
+![Summary](https://github.com/alhajtp04-ux/Heart-Attack-Risk-Analysis-PowerBI/blob/main/HEART%20DASH/Screenshot%202026-03-06%20135429.png)
