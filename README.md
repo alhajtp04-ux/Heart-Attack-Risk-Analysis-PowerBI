@@ -69,17 +69,19 @@ It enables better decision-making through interactive data visualization.
 - Integrate real-time healthcare data
 - Improve dashboard design and usability
 
-- Recommendations
+## Recommendations
 
-Maintain healthy diet and regular exercise
+- Maintain healthy diet and regular exercise
 
-Reduce smoking and alcohol consumption
+- Reduce smoking and alcohol consumption
 
-Monitor blood pressure and cholesterol regularly
+- Monitor blood pressure and cholesterol regularly
 
-Manage stress and improve sleep habits
+- Manage stress and improve sleep habits
 
-Use data analytics dashboards for better health monitoring
+- Use data analytics dashboards for better health monitoring
+
+- 
 
 ## Dashboard Preview
 
